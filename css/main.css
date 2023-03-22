@@ -25,7 +25,7 @@ img {
 
 .header {
   height: 500px;
-  background-image: url(/img/BG_header_787-500.jpg);
+  background-image: url(../img/BG_header_787-500.jpg);
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -147,7 +147,7 @@ img {
 @media (min-width: 744px) {
   .header {
     height: 800px;
-    background-image: url(/img/BG_header_1400-800.jpg);
+    background-image: url(../img/BG_header_1400-800.jpg);
     background-position: center;
     padding: 0 72px;
   }
@@ -178,7 +178,7 @@ img {
 @media (min-width: 1260px) {
   .header {
     height: 720px;
-    background-image: url(/img/BG_header_1400-720.jpg);
+    background-image: url(../img/bgheader1400-720.jpg);
     padding: 52px 120px 0 120px;
   }
   .header__nav {
